@@ -1,0 +1,8 @@
+Git is an online environmrnt which we can send our codes in there because of these features:
+1- We can undo our changes
+2- A number of programmers can make changes on it
+3- Can make web pages everyone can see
+
+check youtube watch later:
+-> Visual Studio Code | How to use git and github
+(after clicking on source control, choose initialize Repository)
