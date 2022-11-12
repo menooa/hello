@@ -10,3 +10,5 @@ check youtube watch later:
 after installing git, type these in command prompt:
 git config --global user.name "Menooa Ebrahimi"
 git config --global user.email "menooa.ebrahimi@gmail.com"
+
+after making changes, first commit (with a message), then push, in order to send it to your git account.
