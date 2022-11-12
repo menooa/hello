@@ -6,3 +6,7 @@ Git is an online environmrnt which we can send our codes in there because of the
 check youtube watch later:
 -> Visual Studio Code | How to use git and github
 (after clicking on source control, choose initialize Repository)
+
+after installing git, type these in command prompt:
+git config --global user.name "Menooa Ebrahimi"
+git config --global user.email "menooa.ebrahimi@gmail.com"
